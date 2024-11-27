@@ -14,11 +14,7 @@ A responsive Twitter User Interface (UI) clone built with **Tailwind CSS**. This
 
 ---
 
-## Demo
 
-[Live Demo](#) (Insert your demo link here)
-
----
 
 ## Screenshots
 
@@ -45,7 +41,7 @@ A responsive Twitter User Interface (UI) clone built with **Tailwind CSS**. This
 ### Steps
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/twitter-ui-clone.git
+   git clone https://github.com/Sudhanshu517/X-Twitter-Clone-using-Tailwind-CSS/tree/main
    ```
 2. Navigate to the project directory:  
    ```bash
@@ -73,8 +69,6 @@ twitter-ui-clone/
 │
 ├── public/               # Static assets
 ├── css/                  
-│   ├── components/       # Reusable UI components
-│   ├── pages/            # Page layouts
 │   └── styles/           # Tailwind and custom styles
 ├── tailwind.config.js    # Tailwind CSS configuration
 ├── package.json          # Project metadata and dependencies
@@ -83,14 +77,7 @@ twitter-ui-clone/
 
 ---
 
-## Customization
 
-1. Update Tailwind's configuration:  
-   Modify the `tailwind.config.js` file to adjust themes, colors, or breakpoints.
-2. Extend existing styles:  
-   Add custom CSS in the `css/styles/` directory as needed.
-
----
 
 ## Contributing
 
@@ -103,12 +90,6 @@ To contribute:
    ```
 3. Commit your changes and push them.  
 4. Submit a pull request.
-
----
-
-## License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
