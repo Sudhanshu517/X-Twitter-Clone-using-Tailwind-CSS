@@ -14,22 +14,18 @@ A responsive Twitter User Interface (UI) clone built with **Tailwind CSS**. This
 
 ---
 
-
-
-## Screenshots
-
-### Desktop View  
-*(Insert a screenshot of the desktop layout)*  
-
-### Mobile View  
-*(Insert a screenshot of the mobile layout)*  
-
----
-
 ## Technologies Used
 
 - **Tailwind CSS**: For styling and responsive design.  
 - **HTML5**: Markup for structuring the UI.  
+
+---
+
+# Video Demo
+
+Watch a video demo of the working Spotify clone:
+
+[https://drive.google.com/file/d/1Ww-5umm3Tje7SLsSliQ8IlxNyPEfujq-/view?usp=sharing](https://drive.google.com/file/d/1jvtxA6YN5ShIKrdqbwLks-inWIAuIcVY/view?usp=sharing)
 
 ---
 
