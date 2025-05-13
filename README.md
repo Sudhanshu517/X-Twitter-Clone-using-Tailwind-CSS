@@ -23,7 +23,7 @@ A responsive Twitter User Interface (UI) clone built with **Tailwind CSS**. This
 
 # Video Demo
 
-Watch a video demo of the working Spotify clone:
+Watch a video demo of the working Twitter(X) UI clone:
 
 [https://drive.google.com/file/d/1Ww-5umm3Tje7SLsSliQ8IlxNyPEfujq-/view?usp=sharing](https://drive.google.com/file/d/1jvtxA6YN5ShIKrdqbwLks-inWIAuIcVY/view?usp=sharing)
 
@@ -92,6 +92,6 @@ To contribute:
 ## Acknowledgements
 
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)  
-- Inspired by X[Twitter](https://twitter.com)  
+- Inspired by X [Twitter](https://twitter.com)  
 
 ---  
