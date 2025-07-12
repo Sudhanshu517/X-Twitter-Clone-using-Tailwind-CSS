@@ -37,7 +37,7 @@ Watch a video demo of the working Twitter(X) UI clone:
 ### Steps
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Sudhanshu517/X-Twitter-Clone-using-Tailwind-CSS/tree/main
+   git clone https://github.com/Sudhanshu517/X-Twitter-Clone-using-Tailwind-CSS
    ```
 2. Navigate to the project directory:  
    ```bash
